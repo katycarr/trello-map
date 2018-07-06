@@ -46,12 +46,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">
-			TEST
-		  </h1>
-        </header>
-		<Map markers={this.state.cards}/>
+	<Map markers={this.state.cards}/>
       </div>
     );
   }

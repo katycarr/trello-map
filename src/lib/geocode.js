@@ -1,3 +1,4 @@
+import {BASE_URL, GEO_KEY} from './keys'
 
 class Geocode {
   
